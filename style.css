@@ -1,0 +1,22 @@
+body {
+  background-color: brown;
+  background-size: 50%;
+}
+h1 {
+  text-align: center;
+}
+
+.header {
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+input {
+  margin: auto;
+  display: block;
+}
+.submit {
+margin-top: 30px;
+}
